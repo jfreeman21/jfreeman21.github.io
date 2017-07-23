@@ -11,7 +11,7 @@ p, li {
 }
 
 .project {
-    background-color: grey;
+    background-color: rgba(99, 102  , 106, .5);
     width: 543px;
 }
 
